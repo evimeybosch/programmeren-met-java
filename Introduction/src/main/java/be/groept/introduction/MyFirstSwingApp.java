@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 public class MyFirstSwingApp {
-
+//dit is commentaar
 	private JFrame frame;
 
 	/**
